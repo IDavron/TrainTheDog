@@ -15,4 +15,4 @@ Versions of packages used:<br />
   
 In order to run the project, you should clone the repository, and install corresponding packages (newer versions probably will work as well). After thats done, you can start training the model by typing `mlagents-learn --run-id=ANY_ID_HERE`.
 
-You can also use config file in Cofigs folder if you want to tweak learning parameters. You can change max_steps atribute in the configuration file in order to increase training period. To start training process with config file, type `mlagents-learn Configs\DogBehaviorConfig.yaml --run-id=ANY_ID_HERE`.
+You can also use config file in Cofigs folder if you want to tweak learning parameters. You can change **max_steps** atribute in the configuration file in order to increase training period. To start training process with config file, type `mlagents-learn Configs\DogBehaviorConfig.yaml --run-id=ANY_ID_HERE`.
