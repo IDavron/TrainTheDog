@@ -9,9 +9,9 @@ To achieve this goal, the Dog should get some information about enviroment aroun
 The dog has 3 continuous actions. For turning, moving and "unloading" respectively.
 
 Versions of packages used:<br />
-    *ML Agents (Unity)   : 2.1.0-exp.1<br />
-    *PyTorch             : 1.9.0<br />
-    *ML Agents (Python)  : 0.27.0<br />
+    - ML Agents (Unity)   : 2.1.0-exp.1<br />
+    - PyTorch             : 1.9.0<br />
+    - ML Agents (Python)  : 0.27.0<br />
   
 In order to run the project, you should clone the repository, and install corresponding packages (newer versions probably will work as well). After thats done, you can start training the model by typing `mlagents-learn --run-id=ANY_ID_HERE`.
 
